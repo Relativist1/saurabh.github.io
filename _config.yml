@@ -271,7 +271,7 @@ defaults:
       type: posts
     values:
       sidebar:
-      nav : 
+      nav : yoi
       layout: single
       author_profile: true
       read_time: false
