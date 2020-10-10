@@ -14,5 +14,5 @@ header:
   overlay_filter: "0.5"
 
 ---
-[Here](https://relativist1.github.io/assets/pdfs/CV_ac.pdf) you can find a pdf of my CV.
+[Here](https://relativist1.github.io/assets/pdfs/CV_academia6.pdf) you can find a pdf of my CV.
 
