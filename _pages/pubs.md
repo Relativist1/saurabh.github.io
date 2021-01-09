@@ -5,7 +5,7 @@ classes:
     - landing
     - dark-theme
 title: Publications
-author_profile: true
+author_profile: false
 
 header:
   overlay_image: /assets/images/M87.png
