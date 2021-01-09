@@ -8,5 +8,5 @@ main:
     url: _pages/pubs
   - title: "Gallifray"
     url: _pages/gallifray
-  - title: "CV"
-    url: _pages/cv
+#  - title: "CV"
+#    url: _pages/cv
