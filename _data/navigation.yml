@@ -9,4 +9,4 @@ main:
   - title: "CV"
     url: _pages/cv
   - title: "Gallifray"
-  url: _pages/gallifray
+    url: _pages/gallifray
