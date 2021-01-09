@@ -5,7 +5,7 @@ classes:
     - landing
     - dark-theme
 title: Publications
-author_profile: false
+author_profile: true
 
 header:
   overlay_image: /assets/images/M87.png
@@ -13,7 +13,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
-
 
 
 * Kimet Jusufi & **Saurabh**, 'Black Hole Shadows in Verlinde's Gravity', 2020. [_arXiv:2010.15870_](https://arxiv.org/abs/2010.15870) [Under Review MNRAS]
