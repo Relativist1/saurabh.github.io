@@ -6,7 +6,7 @@ main:
     url: _pages/simulations
   - title: "Publications"
     url: _pages/pubs
-  - title: "CV"
-    url: _pages/cv
   - title: "Gallifray"
     url: _pages/gallifray
+  - title: "CV"
+    url: _pages/cv

@@ -4,7 +4,8 @@ classes:
     - wide
     - landing
     - dark-theme
-    title: Gallifray : Geometric Modelling and Parameter Estimation Framework for Black hole Images including VLBI.
+    title: Gallifray 
+            Geometric Modelling and Parameter Estimation Framework for Black hole Images including VLBI.
 author_profile: false
 
 header:
