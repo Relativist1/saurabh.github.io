@@ -4,8 +4,7 @@ classes:
     - wide
     - landing
     - dark-theme
-    title: Gallifray 
-            Geometric Modelling and Parameter Estimation Framework for Black hole Images including VLBI.
+    title: Gallifray
 author_profile: false
 
 header:
@@ -15,5 +14,5 @@ header:
     overlay_filter: "0.5"
 
 ---
-To be updated....!
+`Gallifray` is a geometric modelling and parameter estimation framework for Black hole Images including VLBI based on Python
 -
