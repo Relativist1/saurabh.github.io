@@ -20,7 +20,7 @@ header:
 {% include figure image_path="/assets/images/pp.jpeg" alt="Gauribindaur Radio Observatory" %}{: .align-right}
 
 Hello, My name is Saurabh. I live in Delhi , the capital state of India.
-I am a final year undergrad student at [Dyal Singh College, University of Delhi](http://dsc.du.ac.in) 
+I recently graudated from  [Dyal Singh College, University of Delhi](http://dsc.du.ac.in)  with a Bachelor's degree in Physics. 
 
 I am currently working on simulation of Black Holes which includes both theoretical and numerical work. Currently I am engaged in two major projects related to shadows. The first project is in collaboration with [International Centre for Cosmology (ICC)](http://icc.charusat.ac.in/) and project advisor is [Prof. Pankaj Joshi](https://www.charusat.ac.in/provost_charusat/) (Director of ICC). The other project is with [Dr. Sourabh Nampalliwar](https://www.tat.physik.uni-tuebingen.de/~nampalliwar/) from University of Tübingen on the observational aspects of determining the geoemtry of Black hole (Non-Kerr Models) using the framework of shadows.
 
