@@ -15,7 +15,7 @@ header:
 ---
 
 
-Kimet Jusufi & **Saurabh**, 'Black hole shadows in verlinde’s emergent gravity', Monthly Notices of the Royal Astronomical Society, 2021;, stab476, [_doi:10.1093/mnras/stab47_](https://doi.org/10.1093/mnras/stab47)  [_arXiv:2010.15870_](https://arxiv.org/abs/2010.15870)
+* Kimet Jusufi & **Saurabh**, 'Black hole shadows in verlinde’s emergent gravity', Monthly Notices of the Royal Astronomical Society, 2021;, stab476, [_doi:10.1093/mnras/stab47_](https://doi.org/10.1093/mnras/stab47)  [_arXiv:2010.15870_](https://arxiv.org/abs/2010.15870)
 
 * **Saurabh** & Kimet Jusufi, 'Imprints of Dark Matter on Black Hole Shadows using Spherical Accretions', 2020. [_arXiv:2009.10599_](https://arxiv.org/abs/2009.10599) [Under Review PRD]
 
