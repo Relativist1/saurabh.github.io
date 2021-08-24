@@ -15,7 +15,7 @@ header:
 ---
 * S. Nampalliwar & **Saurabh K.**, 'Theory-agnostic tests of gravity with black hole shadows', 2021 [_arXiv:2108.01190_](https://arxiv.org/abs/2108.01190)
 
-* Kimet Jusufi, *Saurabh K.*, Mustapha Azreg-Aïnou, Mubasher Jamil, Qiang Wu, Cosimo Bambi, 'Constraining Wormhole Geometries using the Orbit of S2 Star and the Event Horizon Telescope', 2021 [_arXiv:2106.08070_](https://arxiv.org/abs/2106.08070)
+* Kimet Jusufi, **Saurabh K.**, Mustapha Azreg-Aïnou, Mubasher Jamil, Qiang Wu, Cosimo Bambi, 'Constraining Wormhole Geometries using the Orbit of S2 Star and the Event Horizon Telescope', 2021 [_arXiv:2106.08070_](https://arxiv.org/abs/2106.08070)
 
 * S. Nampalliwar, **Saurabh**, K. Jusufi, Q. Wu, M. Jamil, and P. Salucci,  'Modeling the Sgr A* Black Hole Immersed in a Dark Matter Spike', The Astrophysical Journal, Volume 916, Number 2 [_doi:10.3847/1538-4357/ac05cc_](https://iopscience.iop.org/article/10.3847/1538-4357/ac05cc) [_arXiv:2103.12439_](https://arxiv.org/abs/2103.12439)
 
